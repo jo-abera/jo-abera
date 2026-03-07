@@ -17,7 +17,7 @@
 
 <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
-       width="250" 
+       width="180" 
        align="right" 
        style="margin-top: -50px;">
 </picture>
