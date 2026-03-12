@@ -23,11 +23,6 @@
 </picture>
 -->
 
-<picture>
-  <source media="(max-width: 768px)" srcset="">
-  <img align="right" width="200"
-       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-</picture>
 
 <br><br>
 - :technologist: I am a passionate `Backend Developer` who enjoys building systems and APIs.
