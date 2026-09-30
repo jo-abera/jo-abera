@@ -25,7 +25,7 @@
 
 
 <br><br>
-- :technologist: I am a passionate `Backend Developer` who enjoys building systems and APIs.
+- :technologist: I am a passionate `Full-stack Developer` who enjoys building systems and APIs.
 - :computer: I love using `technology` to solve real-world problems.
 - :nerd_face: Always `learning new technologies` and improving my development skills.
 - :gear: Interested in `React.js`, `Next.js`,` Node.js`, `APIs`, `Databases`, and scalable backend systems.
