@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jo-abera&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
-  <img src="https://img.shields.io/badge/Backend%20Developer-blue?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/Backend%20Engineering-green?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/Continuous%20Learner-yellowgreen?style=flat" height="20"/>
   <img src="https://img.shields.io/badge/Scalable%20Systems-orange?style=flat" height="20"/>
