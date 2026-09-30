@@ -27,9 +27,8 @@
 <br><br>
 - :technologist: I am a passionate `Backend Developer` who enjoys building systems and APIs.
 - :computer: I love using `technology` to solve real-world problems.
-- :rocket: I enjoy building projects like `Greenscape`, `StayWise`, and other backend applications.
 - :nerd_face: Always `learning new technologies` and improving my development skills.
-- :gear: Interested in `Node.js`, `APIs`, `Databases`, and scalable backend systems.
+- :gear: Interested in `React.js`, `Next.js`,` Node.js`, `APIs`, `Databases`, and scalable backend systems.
 <!---- :student: I’m currently learning `Backend Development`, `Computer Science`, and `Software Engineering`.-->
 <!---- :thinking: I’m currently looking for a `Backend Developer Internship`.
 <!--- :link: You can check my projects on my `GitHub profile`.-->
